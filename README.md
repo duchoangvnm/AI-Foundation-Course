@@ -12,16 +12,6 @@
 | 6. Computational Graph and Linear Regression |<a href="https://colab.research.google.com/drive/11Ksm3G10VU1QayLHrb6J4lpaV8DfjfU7#scrollTo=frT3jphkC_en"><img class="notebook-badge-image" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |<a   href="https://github.com/duchoangvnm/Tutorial_AI_ZUMP_ZERO/blob/main/ComputationalGraph%26LinearRegression.ipynb" role="button"><img class="notebook-badge-image" src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a> |
 
 
-https://github.com/duchoangvnm/AI-Foundation-Course/blob/main/Linear_Algebra_and_Applications.ipynb
-
-
-
-
-
-
-
-
-
 
 
 
